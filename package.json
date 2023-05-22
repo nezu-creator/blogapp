@@ -13,5 +13,6 @@
   "devDependencies": {
     "webpack-dev-server": "^4.13.3",
     "node-sass": "4.14.1"
-  }
+  },
+  "@rails/webpacker": "5.4.3"
 }
