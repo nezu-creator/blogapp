@@ -1,6 +1,9 @@
 {
   "name": "blog_app",
   "private": true,
+  "overrides": {
+    "babel-plugin-macros": "^3.0.1"
+  },
   "dependencies": {
     "@babel/core": "^7.0.0",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
