@@ -32,7 +32,7 @@
     "@babel/plugin-transform-regenerator": "^7.22.5",
     "@babel/plugin-transform-runtime": "^7.22.9",
     "babel-plugin-dynamic-import-node": "^2.3.3",
-    "babel-plugin-macros": "^3.1.0",
+    "babel-plugin-macros": "2.8.0",
     "webpack-dev-server": "^3"
   },
   "packageManager": "yarn@1.22.19",
